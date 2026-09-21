@@ -1,0 +1,25 @@
+{
+  "name": "yourz-hub",
+  "version": "1.0.0",
+  "description": "Everything. One Place. — A simple family utility web app for everyday tasks, bills, notes and useful links.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx serve .",
+    "build": "echo \"Static site - no build needed\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahiiil09/Your-z-Hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahiiil09/Your-z-Hub/issues"
+  },
+  "homepage": "https://github.com/sahiiil09/Your-z-Hub#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
